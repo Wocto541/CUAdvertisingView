@@ -86,7 +86,7 @@
     {
         self.backgroundColor = [UIColor clearColor];
         self.contentMode = UIViewContentModeRedraw;
-        self.placeholderImage = DEF_BANNER_IMAGE;
+//        self.placeholderImage = DEF_BANNER_IMAGE;
         [self freshScrollView];
     }
     return self;
